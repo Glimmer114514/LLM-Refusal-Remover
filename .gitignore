@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model weights (large files, do NOT commit)
+*.safetensors
+*.safetensors.index.json
+*.bin
+*.gguf
+*.ggml
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.msgpack
+
+# Model directories
+Qwen3-1.7B/
+Qwen3-4B/
+surgery-output/
+surgery-qwen3-1.7b/
+surgery-qwen3-4b/
+
+# ModelScope cache
+.msc
+.mv
+
+# HuggingFace cache
+.cache/
+
+# Temp files
+._____temp/
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Environment
+.env
