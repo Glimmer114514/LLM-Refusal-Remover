@@ -26,6 +26,14 @@
 
 ---
 
+## 📥 手术后模型下载
+
+| 模型 | 基础模型 | 手术层 | 消融系数 | 下载 |
+|------|----------|--------|----------|------|
+| Qwen3-1.7B-Refusal-Removed | Qwen3-1.7B | 8-18 | 1.0 | [Hugging Face](https://huggingface.co/R41NH4RD/Qwen3-1.7B-Refusal-Removed) |
+
+---
+
 ## 📋 目录
 
 - [项目简介](#项目简介)
